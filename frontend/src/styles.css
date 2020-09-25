@@ -1,0 +1,33 @@
+.btn,
+.jumbotron,
+.nav:hover{
+    border-radius: 0px;
+}
+
+body{
+    margin: 0;
+    background-color: white;
+    }
+
+.cont1{
+    width:50%;
+    padding-bottom: 20px;
+    padding-left: 30%;
+    padding-top: 3%;
+    float: left;
+}
+.cont2{
+    float: right;
+    width: 50%;
+    padding-bottom: 20px;
+    padding-right: 30%;
+    padding-top: 3%; 
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+
