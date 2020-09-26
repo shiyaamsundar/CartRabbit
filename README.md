@@ -15,3 +15,17 @@ ide:vs code
 2.download frontend  and run npm i to install all required package 
 3. npm start to run node to start the server
 4.npm start to run react
+
+
+Admin : 
+
+Admin login details
+z@gamil.com
+1234
+
+admin@gamil.com
+1234
+
+
+If you want to add admin 
+In the user db change role from 0 to 1
