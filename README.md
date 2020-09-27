@@ -4,7 +4,7 @@ Tech Stack :- MERN 
 
 
 URI:- mongodb+srv://user:user1234@cluster0.ez5xx.mongodb.net/<dbname>?retryWrites=true&w=majority
-use this link to connect mongo db compass
+use this link to connect with mongo db compass
 
 steps to run the app:-
 required :- node,react latest version
